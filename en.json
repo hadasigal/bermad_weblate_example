@@ -20,6 +20,11 @@
     "LANGUAGE": "language",
     "NOW": "now",
     "PLEASE_SELECT": "please select",
-    "START": "start"
+    "START": "start",
+    "FAMILY": "family",
+    "FATHER": "father",
+    "MOTHER": "mother",
+    "SON": "son",
+    "DAUGHTER": "daughter"
   }
 }
