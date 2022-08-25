@@ -25,6 +25,8 @@
     "FATHER": "father",
     "MOTHER": "mother",
     "SON": "son",
-    "DAUGHTER": "daughter"
+    "DAUGHTER": "daughter",
+    "MILK": "milk",
+    "BREAD": "bread"
   }
 }
