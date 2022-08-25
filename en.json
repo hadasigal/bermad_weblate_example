@@ -1,6 +1,7 @@
 {
   "settings": {},
   "common": {
+    "GOOD_MORNING": "good morning",
     "SUNDAY": "Sunday",
     "MONDAY": "Monday",
     "TUESDAY": "Tuesday",
