@@ -14,6 +14,8 @@
     "MONTH": "month",
     "DAY": "day",
     "YEAR": "year",
+    "CITY": "city",
+    "STATE": "state",
     "YES": "yes",
     "NO": "no",
     "BATTERY_LOW_VOLTAGE": "Low battery",
