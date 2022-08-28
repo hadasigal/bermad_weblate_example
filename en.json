@@ -13,6 +13,7 @@
     "WEEK": "week",
     "MONTH": "month",
     "DAY": "day",
+    "YEAR": "year",
     "YES": "yes",
     "NO": "no",
     "BATTERY_LOW_VOLTAGE": "Low battery",
